@@ -91,3 +91,20 @@ output: pdf_document
 - **Interpretation:**
   - Konzentrieren Sie sich auf die Signifikanz der Koeffizienten, R-Quadrat-Werte und die Gesamtmodellgüte.
   - **Wer** sollte am Interpretationsprozess beteiligt sein und
+  - **Wer** sollte in den Interpretationsprozess einbezogen werden, und **wie** kann die Zusammenarbeit das Verständnis verbessern?
+
+- **Modellvalidierung:**
+  - Regelmäßige Überprüfung der Annahmen durch Visualisierungen und diagnostische Tests.
+  - **Wie** trägt die laufende Validierung zur Zuverlässigkeit der Ergebnisse bei?
+
+# V. Schlussfolgerung
+
+- **Schlüsselergebnisse:**
+  - Das Verständnis von Schlüsselfaktoren in statistischen Analysen ist für eine solide Forschung unerlässlich.
+  - Visualisierungen und Analysen wie Korrelation, Regression, Mediation und Moderation bieten wertvolle Einblicke.
+  - **Wie** können Praktiker diese Prinzipien und Analysen in ihrem spezifischen Bereich anwenden?
+
+# VI. Weitere Ressourcen
+
+- Nennen Sie Referenzen oder empfohlene Lektüre für Praktiker, die ihr Wissen vertiefen möchten.
+  - **An wen** können sich Praktiker wenden, wenn sie zusätzliche Unterstützung oder Klärung benötigen?
