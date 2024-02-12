@@ -1,5 +1,5 @@
 # Data Workshop
-![](/Workshop files/dist.png)
+![](Workshop files/dist.png)
 
 ## Überblick
 
