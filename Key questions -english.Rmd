@@ -1,0 +1,82 @@
+---
+title: "Interpreting Data: Key Questions for Practitioners - english"
+output: pdf_document
+---
+
+# I. Introduction
+
+- **Understanding the Presenter's Goal:**
+  - What is the presenter's primary goal in sharing this data?
+  - How does the data contribute to answering research or practical questions?
+  - **Who** is the intended audience for this data presentation?
+
+# II. Data Context and Relevance
+
+- **Contextual Understanding:**
+  - What is the background or context of the data presented?
+  - How does the data relate to the specific context of your practice or field?
+  - **Who** are the key stakeholders, and how is the data relevant to them?
+
+- **Relevance to Your Practice:**
+  - What impact does the presented data have on your decision-making or practice?
+  - **Why** is this data important for your specific role or responsibilities?
+
+# III. Assessing the Measures Used
+
+- **Evaluation of Effect Sizes:**
+  - Do you understand the effect size measures used in the presentation?
+  - How do these measures align with the objectives of the analysis?
+  - **Why** might these specific effect size measures have been chosen?
+
+- **Consideration of Statistical Power and Precision:**
+  - Has the presenter addressed the statistical power and precision of the findings?
+  - Are there limitations in the data that the presenter has acknowledged?
+  - **How many** data points or observations were included in the analysis?
+
+# IV. Communicating Effectively
+
+- **Clarity in Language:**
+  - Has the presenter minimized the use of technical jargon for clear communication?
+  - How has the presenter explained complex statistical concepts for broader understanding?
+  - **How** has the presenter ensured that the audience comprehends the data?
+
+- **Effective Visual Representation:**
+  - Are the visualizations clear, concise, and aligned with the message being conveyed?
+  - How have visual aids (graphs, charts) been employed to enhance understanding?
+  - **How** do the visual representations contribute to your understanding?
+
+# V. Considering Practical Implications
+
+- **Practical Significance:**
+  - Beyond statistical significance, what is the practical significance of the findings?
+  - How might these results translate into actionable insights for practitioners?
+  - **Why** should practitioners, including yourself, care about the findings?
+
+- **Application in Practice:**
+  - How can the presented findings be applied in day-to-day work?
+  - Are there actionable recommendations based on the data?
+  - **How** can practitioners, including yourself, implement the insights in their practice?
+
+# VI. Addressing Uncertainty and Limitations
+
+- **Acknowledging Confidence Intervals:**
+  - Has the presenter provided confidence intervals to convey the level of uncertainty?
+  - How has uncertainty been communicated and interpreted?
+  - **How** confident do you feel in the results presented?
+
+- **Understanding Data Limitations:**
+  - What limitations has the presenter mentioned, and how might they impact the interpretation?
+  - Are there potential biases or confounding factors that have been considered?
+  - **Who** might be affected by these limitations?
+
+# VII. Conclusion and Next Steps
+
+- **Key Takeaways:**
+  - What are the main messages you, as a practitioner, should take away from the data presentation?
+  - Are there specific actions or next steps for practitioners based on the presented data?
+  - **How/with what** resources can practitioners, including yourself, implement the key takeaways?
+
+- **Feedback and Iteration:**
+  - How can practitioners, including yourself, provide feedback to improve future data presentations?
+  - Is there room for iteration and refinement in the presenter's approach to data communication?
+  - **When** would be an appropriate time for feedback and improvement?

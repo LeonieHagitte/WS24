@@ -1,0 +1,83 @@
+---
+title: "Verständnis von Effektstärken in Forschung - Deutsch"
+output: pdf_document
+---
+
+# I. Einleitung
+
+**Definition:**
+- **Effektstärke:** Ein statistisches Maß, das die Größe oder Stärke eines beobachteten Effekts in einer Studie quantifiziert.
+
+# II. Bedeutung von Effektstärken
+
+1. **Ergänzung zur Signifikanzprüfung:**
+   - *Signifikanz vs. Praktische Relevanz:* Während die Signifikanzprüfung anzeigt, ob Ergebnisse unwahrscheinlich aufgrund des Zufalls sind, liefern Effektstärken Informationen über die praktische Bedeutung der Befunde.
+
+2. **Interpretation der Ergebnisse:**
+   - *Über p-Werte hinaus:* Effektstärken helfen Forschern, die Größe von Unterschieden oder Beziehungen zu interpretieren, jenseits der binären Unterscheidung "signifikant" oder "nicht signifikant".
+
+# III. Arten von Effektstärken
+
+1. **Cohens d:**
+   - *Definition:* Misst den standardisierten Unterschied zwischen zwei Mittelwerten.
+   - *Interpretation:* Kleine (d = 0,2), mittlere (d = 0,5) und große (d = 0,8) Effektstärken.
+
+2. **Pearsons r:**
+   - *Definition:* Repräsentiert die Stärke und Richtung einer linearen Beziehung zwischen zwei Variablen.
+   - *Interpretation:* Liegt zwischen -1 und 1, wobei 0 keine Korrelation bedeutet und -1 oder 1 eine perfekte negative oder positive Korrelation darstellen.
+
+3. **Odds Ratio (OR):**
+   - *Definition:* Wird häufig in der logistischen Regression verwendet und quantifiziert die Chancen für das Eintreten eines Ereignisses in einer Gruppe im Vergleich zu einer anderen.
+   - *Interpretation:* Eine OR von 1 deutet auf keinen Effekt hin; Werte größer oder kleiner als 1 zeigen erhöhte oder verringerte Chancen an.
+
+4. **Beta (\(\beta\) - Standardisierter Regressionskoeffizient):**
+   - *Definition:* Repräsentiert die Veränderung in der Standardabweichung der abhängigen Variable für eine Standardabweichungsänderung in der unabhängigen Variable.
+   - *Interpretation:* Ermöglicht den Vergleich der Stärke verschiedener Prädiktoren.
+
+5. **B (Regressionskoeffizient):**
+   - *Definition:* Repräsentiert die Veränderung in der abhängigen Variable für eine Einheit Änderung in der unabhängigen Variable in der Regressionsanalyse.
+
+6. **R-Quadrat:**
+   - *Definition:* In der Regression gibt es den Anteil der Varianz in der abhängigen Variable an, der durch die unabhängige Variable(n) erklärt wird.
+   - *Interpretation:* Werte liegen zwischen 0 und 1, wobei höhere Werte einen größeren Anteil der erklärten Varianz anzeigen.
+
+7. **Adjustiertes R-Quadrat:**
+   - *Definition:* Ähnlich wie R-Quadrat, berücksichtigt jedoch die Anzahl der Prädiktoren im Modell.
+   - *Interpretation:* Hilft, das Risiko von Überanpassung in Modellen mit mehreren Prädiktoren zu mindern.
+
+# IV. Praktische Überlegungen
+
+1. **Kontext ist wichtig:**
+   - *Fachspezifische Normen:* Effektstärke-Benchmarks können in verschiedenen psychologischen Teilgebieten variieren.
+
+2. **Konfidenzintervalle:**
+   - *Unsicherheit einbeziehen:* Effektstärken sind informativer, wenn sie zusammen mit Konfidenzintervallen angegeben werden, die einen Bereich plausibler Werte bieten.
+
+# V. Berichterstattung von Effektstärken
+
+1. **In Forschungsarbeiten:**
+   - *Im Ergebnisteil einbeziehen:* Effektstärken neben p-Werten angeben, um ein umfassendes Verständnis der Studienergebnisse zu ermöglichen.
+
+2. **Meta-Analyse:**
+   - *Erleichtert Vergleiche:* Effektstärken verbessern die Vergleichbarkeit von Studien in Metaanalysen und tragen zu einer umfassenderen Synthese von Evidenz bei.
+
+# VI. Eta Quadrat (\(\eta^2\)) und Omega Quadrat (\(\omega^2\))
+
+1. **Eta Quadrat (\(\eta^2\)):**
+   - *Definition:* In der ANOVA repräsentiert es den Anteil der Varianz in der abhängigen Variable, der durch die unabhängige Variable(n) erklärt wird.
+   - *Interpretation:* Werte liegen zwischen 0 und 1, wobei höhere Werte einen größeren Anteil der erklärten Varianz anzeigen.
+
+2. **Omega Quadrat (\(\omega^2\)):**
+   - *Definition:* Ähnlich wie Eta Quadrat, bietet jedoch eine weniger voreingenommene Schätzung, insbesondere bei kleineren Stichproben.
+   - *Interpretation:* Wie Eta Quadrat liegen die Werte zwischen 0 und 1.
+
+# VII. Schlussfolgerung
+
+**Haupterkenntnisse:**
+- Effektstärken liefern wertvolle Informationen über die praktische Bedeutung von Studienergebnissen.
+- Verwenden Sie mehrere Effektstärken für ein umfassendes Verständnis der beobachteten Effekte.
+- Berücksichtigen Sie fachspezifische Normen und integrieren Sie Konfidenzintervalle für eine differenzierte Interpretation.
+
+# VIII. Referenzen
+
+- Cohen, J. (1988). Statistische Power-Analyse für die Verhaltenswissenschaften. Hillsdale, NJ: Lawrence Erlbaum Associates.

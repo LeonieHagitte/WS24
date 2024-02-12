@@ -1,0 +1,83 @@
+---
+title: "Dateninterpretation: Schlüsselfragen für Praktiker"
+output: pdf_document
+---
+
+# I. Einleitung
+
+- **Verständnis des Ziels des Präsentators:**
+  - Was ist das Hauptziel des Präsentators bei der Vorstellung dieser Daten?
+  - Wie tragen die Daten zur Beantwortung von Forschungs- oder praktischen Fragen bei?
+  - **Wer** ist das beabsichtigte Publikum für diese Datenpräsentation?
+
+# II. Datenkontext und Relevanz
+
+- **Verständnis des Kontexts der Daten:**
+  - Was ist der Hintergrund oder Kontext der präsentierten Daten?
+  - Wie stehen die Daten im Zusammenhang mit dem spezifischen Kontext Ihrer Praxis oder Ihres Fachgebiets?
+  - **Wer** sind die wichtigsten Interessengruppen, und wie sind die Daten für sie relevant?
+
+- **Relevanz für Ihre Praxis:**
+  - Welche Auswirkungen haben die präsentierten Daten auf Ihre Entscheidungsfindung oder Praxis?
+  - **Warum** sind diese Daten wichtig für Ihre spezifische Rolle oder Verantwortlichkeiten?
+
+# III. Bewertung der Verwendeten Maße
+
+- **Bewertung der Effektstärken:**
+  - Verstehen Sie die verwendeten Maße für die Effektstärken in der Präsentation?
+  - Wie passen diese Maße zu den Zielen der Analyse?
+  - **Warum** könnten diese spezifischen Maße für Effektstärken ausgewählt worden sein?
+
+- **Berücksichtigung von statistischer Power und Präzision:**
+  - Hat der Präsentator die statistische Power und Präzision der Ergebnisse angesprochen?
+  - Gibt es Einschränkungen in den Daten, die der Präsentator berücksichtigt hat?
+  - **Wie viele** Datenpunkte oder Beobachtungen wurden in die Analyse einbezogen?
+
+# IV. Effektive Kommunikation
+
+- **Klarheit in der Sprache:**
+  - Hat der Präsentator den Gebrauch von Fachjargon minimiert, um eine klare Kommunikation zu gewährleisten?
+  - Wie hat der Präsentator komplexe statistische Konzepte für ein breiteres Verständnis erklärt?
+  - **Wie** hat der Präsentator sichergestellt, dass das Publikum die Daten versteht?
+
+- **Effektive visuelle Darstellung:**
+  - Sind die Visualisierungen klar, prägnant und auf die vermittelte Botschaft abgestimmt?
+  - Wie wurden visuelle Hilfsmittel (Diagramme, Grafiken) eingesetzt, um das Verständnis zu verbessern?
+  - **Wie** tragen die visuellen Darstellungen zum Verständnis bei?
+
+# V. Berücksichtigung Praktischer Implikationen
+
+- **Praktische Bedeutung:**
+  - Über die statistische Signifikanz hinaus, welche praktische Bedeutung haben die Ergebnisse?
+  - Wie lassen sich diese Ergebnisse in handlungsrelevante Erkenntnisse für Praktiker übersetzen?
+  - **Warum** sollten Praktiker, einschließlich Ihrer Person, sich für die Ergebnisse interessieren?
+
+- **Anwendung in der Praxis:**
+  - Wie können die präsentierten Erkenntnisse im täglichen Arbeitsablauf angewendet werden?
+  - Gibt es Handlungsempfehlungen basierend auf den Daten?
+  - **Wie** können Praktiker, einschließlich Ihrer Person, die Erkenntnisse in ihrer Praxis umsetzen?
+
+# VI. Umgang mit Unsicherheit und Einschränkungen
+
+- **Anerkennung von Konfidenzintervallen:**
+  - Hat der Präsentator Konfidenzintervalle bereitgestellt, um das Maß der Unsicherheit zu vermitteln?
+  - Wie wurde Unsicherheit kommuniziert und interpretiert?
+  - **Wie** zuversichtlich sind Sie in die präsentierten Ergebnisse?
+
+- **Verständnis der Datenbeschränkungen:**
+  - Welche Einschränkungen hat der Präsentator erwähnt und wie könnten sie die Interpretation beeinflussen?
+  - Gibt es mögliche Verzerrungen oder Störfaktoren, die berücksichtigt wurden?
+  - **Wer** könnte von diesen Einschränkungen betroffen sein?
+
+# VII. Fazit und nächste Schritte
+
+- **Haupterkenntnisse:**
+  - Was sind die wichtigsten Botschaften, die Sie als Praktiker aus der Datenpräsentation mitnehmen sollten?
+  - Gibt es spezifische Maßnahmen oder nächste Schritte für Praktiker basierend auf den präsentierten Daten?
+  - **Wie/mit welchen** Ressourcen können Praktiker, einschließlich Ihrer Person, die wichtigsten Erkenntnisse umsetzen?
+
+- **Feedback und Iteration:**
+  - Wie können Praktiker, einschließlich Ihrer Person, Feedback geben, um zukünftige Datenpräsentationen zu verbessern?
+  - Gibt es Raum für Iteration und Verfeinerung in der Herangehensweise des Präsentators an die Datenkommunikation?
+  - **Wann** wäre ein angemessener Zeitpunkt für Feedback und Verbesserung?
+

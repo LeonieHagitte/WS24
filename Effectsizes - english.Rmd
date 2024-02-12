@@ -1,0 +1,83 @@
+---
+title: "Understanding Effect Sizes in Research - english"
+output: pdf_document
+---
+
+# I. Introduction
+
+**Definition:**
+- **Effect Size:** A statistical measure that quantifies the size or magnitude of an observed effect in a study.
+
+# II. Importance of Effect Sizes
+
+1. **Complement to Significance Testing:**
+   - *Significance vs. Practical Relevance:* While significance testing indicates if results are unlikely due to chance, effect sizes provide information on the practical importance of the findings.
+
+2. **Interpreting Results:**
+   - *Go Beyond p-values:* Effect sizes help researchers interpret the magnitude of differences or relationships, moving beyond the binary "significant" or "non-significant" distinction.
+
+# III. Types of Effect Sizes
+
+1. **Cohen's d:**
+   - *Definition:* Measures the standardized difference between two means.
+   - *Interpretation:* Small (\(d = 0.2\)), medium (\(d = 0.5\)), and large (\(d = 0.8\)) effect sizes.
+
+2. **Pearson's r:**
+   - *Definition:* Represents the strength and direction of a linear relationship between two variables.
+   - *Interpretation:* Ranges from -1 to 1, with 0 indicating no correlation, and -1 or 1 indicating a perfect negative or positive correlation, respectively.
+
+3. **Odds Ratio (OR):**
+   - *Definition:* Commonly used in logistic regression, quantifying the odds of an event occurring in one group compared to another.
+   - *Interpretation:* An OR of 1 suggests no effect; values greater or less than 1 indicate increased or decreased odds.
+
+4. **Beta (\(\beta\) - Standardized Regression Coefficient):**
+   - *Definition:* Represents the change in the standard deviation of the dependent variable for a one-standard-deviation change in the independent variable.
+   - *Interpretation:* Allows for the comparison of the strength of different predictors.
+
+5. **B (Regression Coefficient):**
+   - *Definition:* Represents the change in the dependent variable for a one-unit change in the independent variable in regression analysis.
+
+6. **R-squared:**
+   - *Definition:* In regression, it indicates the proportion of variance in the dependent variable explained by the independent variable(s).
+   - *Interpretation:* Values range from 0 to 1, with higher values indicating a greater proportion of variance explained.
+
+7. **Adjusted R-squared:**
+   - *Definition:* Similar to R-squared but adjusts for the number of predictors in the model.
+   - *Interpretation:* Helps mitigate the risk of overfitting in models with multiple predictors.
+
+# IV. Practical Considerations
+
+1. **Context Matters:**
+   - *Discipline-Specific Norms:* Effect size benchmarks may vary across different psychological subfields.
+
+2. **Confidence Intervals:**
+   - *Incorporate Uncertainty:* Effect sizes are more informative when accompanied by confidence intervals, providing a range of plausible values.
+
+# V. Reporting Effect Sizes
+
+1. **In Research Papers:**
+   - *Include in Results Section:* Report effect sizes alongside p-values for a comprehensive understanding of study outcomes.
+
+2. **Meta-Analysis:**
+   - *Facilitates Comparisons:* Effect sizes enhance the comparability of studies in meta-analyses, contributing to a more comprehensive synthesis of evidence.
+
+# VI. Eta Squared (\(\eta^2\) and Omega Squared (\(\omega^2\))
+
+1. **Eta Squared (\(\eta^2\)):**
+   - *Definition:* In ANOVA, it represents the proportion of variance in the dependent variable explained by the independent variable(s).
+   - *Interpretation:* Values range from 0 to 1, with higher values indicating a greater proportion of variance explained.
+
+2. **Omega Squared (\(\omega^2\)):**
+   - *Definition:* Similar to eta squared but provides a less biased estimate, especially in smaller sample sizes.
+   - *Interpretation:* Like eta squared, values range from 0 to 1.
+
+# VII. Conclusion
+
+**Key Takeaways:**
+- Effect sizes provide valuable information about the practical significance of study results.
+- Use multiple effect size measures for a comprehensive understanding of the observed effects.
+- Consider discipline-specific norms and incorporate confidence intervals for a nuanced interpretation.
+
+# VIII. References
+
+- Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences. Hillsdale, NJ: Lawrence Erlbaum Associates.
