@@ -70,14 +70,3 @@ output: pdf_document
 2. **Omega Quadrat (\(\omega^2\)):**
    - *Definition:* Ähnlich wie Eta Quadrat, bietet jedoch eine weniger voreingenommene Schätzung, insbesondere bei kleineren Stichproben.
    - *Interpretation:* Wie Eta Quadrat liegen die Werte zwischen 0 und 1.
-
-# VII. Schlussfolgerung
-
-**Haupterkenntnisse:**
-- Effektstärken liefern wertvolle Informationen über die praktische Bedeutung von Studienergebnissen.
-- Verwenden Sie mehrere Effektstärken für ein umfassendes Verständnis der beobachteten Effekte.
-- Berücksichtigen Sie fachspezifische Normen und integrieren Sie Konfidenzintervalle für eine differenzierte Interpretation.
-
-# VIII. Referenzen
-
-- Cohen, J. (1988). Statistische Power-Analyse für die Verhaltenswissenschaften. Hillsdale, NJ: Lawrence Erlbaum Associates.

@@ -71,13 +71,3 @@ output: pdf_document
    - *Definition:* Similar to eta squared but provides a less biased estimate, especially in smaller sample sizes.
    - *Interpretation:* Like eta squared, values range from 0 to 1.
 
-# VII. Conclusion
-
-**Key Takeaways:**
-- Effect sizes provide valuable information about the practical significance of study results.
-- Use multiple effect size measures for a comprehensive understanding of the observed effects.
-- Consider discipline-specific norms and incorporate confidence intervals for a nuanced interpretation.
-
-# VIII. References
-
-- Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences. Hillsdale, NJ: Lawrence Erlbaum Associates.
